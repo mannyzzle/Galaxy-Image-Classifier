@@ -1,6 +1,6 @@
 # Galaxy-Image-Classifier
 
-This repository contains Python code and Jupyter notebooks for the classification of galaxy images using convolutional neural networks (CNNs). The project utilizes the Galaxy Zoo dataset to train models capable of identifying various galaxy morphologies.
+This repository contains Python code of a project for the classification of galaxy images using convolutional neural networks (CNNs). The project utilizes the Galaxy Zoo dataset to train models capable of identifying various galaxy morphologies.
 
 ## Installation
 
