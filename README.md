@@ -4,8 +4,8 @@ This repository contains Python code and Jupyter notebooks for the classificatio
 
 ## Installation
 
-Before running the scripts, ensure you have Python installed and then install the required packages:
+Before running the scripts, ensure you have Python installed and then install the required packages and data :
 
-Galaxy Zoo Image Set: https://data.galaxyzoo.org/
+Galaxy Zoo Image Set: https://data.galaxyzoo.org/ for your own training
 
 ## Refer to The_Galaxy_Image_Classifier.pdf for a full report on the project
